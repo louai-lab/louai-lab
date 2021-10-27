@@ -6,7 +6,7 @@ Result View
 # INFORMATION
 
 # Louai Baghdadi
-
+![alt text for screen readers](IMG_20210919_201218_827.png this is me)
 ```
 Lebanese/23/08/
 Tripoli, Lebanon
