@@ -1,14 +1,15 @@
-<img src="i1.webp">
+![alt text for screen readers]("this is me")
 # PERSONAL
 
 # INFORMATION
 
 # Louai Baghdadi
+
 ```
 Lebanese/23/08/
 Tripoli, Lebanon
 +961 70178056
-louaibaghdadi27@gmail.com
+
 ```
 # PERSONALITY TRAITS
 
